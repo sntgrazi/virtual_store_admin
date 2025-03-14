@@ -129,5 +129,5 @@ Este projeto é de livre uso para fins de aprendizado e desenvolvimento.
 
 ---
 ## Contato
-Caso tenha dúvidas ou sugestões, entre em contato pelo e-mail **seuemail@email.com** ou contribua no repositório.
+Caso tenha dúvidas ou sugestões, entre em contato pelo e-mail **sntgrazi22@gmail.com** ou contribua no repositório.
 
